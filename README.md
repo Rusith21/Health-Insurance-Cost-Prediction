@@ -1,4 +1,7 @@
 # Health Insurance Cost Prediction  
+##📷 App Screenshots<img width="1440" alt="Screenshot 2025-06-19 at 10 49 01 AM" src="https://github.com/user-attachments/assets/810d40e1-7ae4-4300-b63c-2fccd66a71a9" />
+
+
 
 ## 📊 Dataset  
 This project uses a dataset containing **50,000** records with various demographic, medical, and financial attributes to predict **health insurance premium costs**.  
