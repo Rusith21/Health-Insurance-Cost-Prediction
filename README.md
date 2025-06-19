@@ -81,7 +81,7 @@ The model is deployed using **Streamlit** on the cloud, allowing users to input 
 ## 🏗️ Installation & Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/health-insurance-premium-prediction.git
+   git clone https://github.com/Rusith21/Health-Insurance-Cost-Prediction
    cd health-insurance-premium-prediction
    ```
 2. Install dependencies:  
